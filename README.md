@@ -2,8 +2,7 @@
 
 I am Igor, a Master's student in Mathematics interested in ML and Data Science!
 
-- 🔭 I’m currently working on a SQL database project.
-- 🌱 I’m currently learning Azure.
+- 🔭 I’m currently working on an LLM agent project.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/igorshuvalov/).
 
 Check out my latest project, [End-to-End Credit Risk Demo](https://github.com/IgorSuvalov/Credit-Defaults).
@@ -13,5 +12,6 @@ Check out my latest project, [End-to-End Credit Risk Demo](https://github.com/Ig
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning Azure.
 
 -->
